@@ -1,0 +1,3 @@
+venv/
+data/iris_dataset.csv
+data/proc_iris_dataset.csv
